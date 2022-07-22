@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">Surel</string>
+    <string name="password">Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="title_signup_page">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="welcome_to_story_app">Selamat datang di Story App!</string>
+    <string name="title_login_page">Masuk</string>
+    <string name="photo_desc">Foto</string>
+    <string name="camera_x">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="description">Deskripsi…</string>
+    <string name="password_min_length">Minimal 6 karakter</string>
+    <string name="email_invalid">Email tidak valid</string>
+    <string name="success">Sukses!</string>
+    <string name="proceed">Lanjut</string>
+    <string name="failed">Gagal!</string>
+    <string name="close">Tutup</string>
+    <string name="field_no_empty">Tidak boleh kosong!</string>
+    <string name="insert_image">Masukkan gambar terlebih dahulu</string>
+    <string name="connection_failed">Koneksi gagal</string>
+    <string name="choose_picture">Pilih gambar</string>
+    <string name="permission_not_granted">Izin tidak diberikan</string>
+    <string name="story_list_title">Daftar Story</string>
+    <string name="add_story_title">Tambah Story</string>
+    <string name="signup">Daftar</string>
+    <string name="language">Pengaturan Bahasa</string>
+    <string name="welcome_user">Selamat Datang, %1$s!</string>
+    <string name="retry">Coba lagi</string>
+    <string name="maps">Peta</string>
+</resources>

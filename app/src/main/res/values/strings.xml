@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">Story App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="title_signup_page">Signup</string>
+    <string name="name">Name</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Log Out</string>
+    <string name="welcome_to_story_app">Welcome to Story App!</string>
+    <string name="title_login_page">Login</string>
+    <string name="photo_desc">Photo</string>
+    <string name="story" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra nisi eu turpis fermentum, vel viverra mi hendrerit. Aenean molestie non libero vel aliquam. Nunc eros mi, tristique vitae erat vitae, finibus tristique mi. Vivamus massa erat, aliquam porta ultricies at, porta at arcu. Sed eget ipsum id neque convallis consectetur vel a ex. Cras egestas, justo vitae volutpat pellentesque, ipsum libero viverra sem, sit amet convallis orci ex nec mi. Sed efficitur quam ac lectus elementum blandit. Nunc ex mauris, porttitor eu eleifend ut, laoreet nec massa. Fusce ullamcorper varius tincidunt. Maecenas sed ipsum est.  Integer eget congue nunc. Nullam viverra tincidunt orci. Sed ac suscipit nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam suscipit ultricies condimentum. Proin aliquam condimentum metus, id dignissim odio congue ut. In ut diam at massa congue egestas et eget ante. Sed mattis, nisi at euismod scelerisque, odio nibh mollis mauris, eu fringilla arcu arcu ac lectus. Curabitur magna arcu, mollis in purus ut, molestie mollis metus. Proin erat tortor, luctus vitae felis egestas, elementum pharetra elit. Sed non odio ac enim suscipit malesuada vel sit amet massa. Pellentesque dapibus sapien commodo, placerat sem a, tincidunt enim. Donec interdum lacus euismod tincidunt commodo. Duis at orci id diam dignissim interdum. Cras nulla sem, fringilla quis eleifend ac, hendrerit sed lectus.</string>
+    <string name="camera_x">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description…</string>
+    <string name="password_min_length">Minimum length is 6</string>
+    <string name="email_invalid">Email is invalid</string>
+    <string name="success">Success!</string>
+    <string name="proceed">Proceed</string>
+    <string name="failed">Failed!</string>
+    <string name="close">Close</string>
+    <string name="field_no_empty">This field can\'t be empty!</string>
+    <string name="insert_image">Please insert image first</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="choose_picture">Choose a picture</string>
+    <string name="permission_not_granted">Permission is not granted</string>
+    <string name="story_list_title">Story List</string>
+    <string name="add_story_title">Add Story</string>
+    <string name="language">Language Settings</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="maps">Maps</string>
+</resources>
